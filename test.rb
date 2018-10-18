@@ -1,0 +1,2 @@
+puts 'Smth'
+puts 'ECHO!!'
